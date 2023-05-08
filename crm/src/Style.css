@@ -1,0 +1,28 @@
+.loginform, .myschedule, .updateschedule{
+    background-color: white;
+    margin: auto;
+    width: 40%;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.logout_button{
+    margin: auto;
+    width: 40%;
+    text-align: left;
+}
+
+table,th,td{
+    border: 1px solid gray;
+}
+
+table{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logout_button{
+    margin-right: 0%;
+}
